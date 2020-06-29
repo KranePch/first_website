@@ -1,2 +1,2 @@
 # first_website
-This is a first web-site using only HTML
+This is my first web-site.
